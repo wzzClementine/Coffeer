@@ -1,0 +1,46 @@
+.gameBanner{
+  display: flex;
+  flex-direction: column;
+}
+
+.swiperWrapper{
+  margin: 0 25px 0 25px;
+}
+
+.contentWrapper{
+  display: flex;
+  flex-direction: column;
+}
+
+.contentBanner{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 20px;
+  background-color: rgba(255, 254, 253, 1);
+  padding: 50px 40px 50px 40px;
+  border-top: 25px solid #F1E9DF;
+  .cover{
+    height: 90px;
+    width: 250px;
+    margin-left: 30px;
+  }
+  .content{
+    overflow:hidden;
+    text-overflow:ellipsis;
+    display:-webkit-box;
+    -webkit-box-orient:vertical;
+    -webkit-line-clamp:2;
+  }
+}
+.SwiperBanner{
+  padding-top: 25px;
+  padding-bottom: 25px;
+  border-bottom: 15px solid #F1E9DF;
+  height: 300px;
+  .swiper-img{
+    width: 100%;
+    height: 100%;
+  }
+}

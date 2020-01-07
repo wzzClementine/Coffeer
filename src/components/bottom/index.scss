@@ -1,0 +1,56 @@
+.bottomWrapper{
+  display: flex;
+  flex-direction: row;
+  //justify-content: space-between;
+  flex-wrap: nowrap;
+  width: 100%;
+  height: 65px;
+  background-color: #F1E9DF;
+  padding: 20px;
+  position: fixed;
+  bottom: 0;
+
+}
+
+.inputWrapper{
+  display: flex;
+  flex-direction: row;
+  background-color: rgb(251, 251, 251);
+  padding: 8px 20px 8px 20px;
+  border-radius: 40px;
+  width: 60%;
+  .img{
+    margin-right: 15px;
+    height: 55px;
+    width: 50px;
+  }
+}
+
+.iconWrapper{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  Input{
+
+  }
+  .icon{
+    margin-left: 40px;
+    height: 55px;
+    width: 55px;
+  }
+  .icon1{
+    margin-left: 40px;
+    height: 50px;
+    width: 50px;
+  }
+}
+
+.iconBanner{
+  display: flex;
+  flex-direction: row;
+  color: #808080;
+  font-size: 22px;
+  .amount{
+    margin-left: 5px;
+  }
+}

@@ -1,0 +1,29 @@
+.navigatorWrapper{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border-bottom: 15px solid #F1E9DF;
+  height: 170px;
+  .navigatorItem{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #F1E9DF;
+    margin: 0 2% 1% 2%;
+    width: 24%;
+    height: 85%;
+    padding: 10px 15px 10px 15px;
+    font-size: 25px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px #FCE9B4;
+    .desc{
+      margin-top: 5px;
+    }
+  }
+  .img{
+    width: 90%;
+    height: 100%;
+  }
+}

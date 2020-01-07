@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f91f0542-7d78-4f53-bce1-e8149792a10c" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="TypeScript JSX File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1T42XM2uSLgHMISM7X7jcSriK6C" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="editor.config.ad.shown" value="true" />
+    <property name="js.last.introduce.type" value="LET" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/pages/write" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.stylelint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.stylelint" value="project" />
+    <property name="node.js.selected.package.eslint" value="D:\coffeeProject\node_modules\eslint" />
+    <property name="node.js.selected.package.stylelint" value="D:\coffeeProject\node_modules\stylelint" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.statistic.project.settings" />
+    <property name="ts.external.directory.path" value="D:\coffeeProject\node_modules\typescript\lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\coffeeProject\src\pages\write" />
+      <recent name="D:\coffeeProject\dist\assets\images" />
+      <recent name="D:\coffeeProject\dist\assets" />
+      <recent name="D:\coffeeProject\src\assets\images" />
+      <recent name="D:\coffeeProject\src\pages" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\coffeeProject\client" />
+      <recent name="D:\coffeeProject" />
+      <recent name="D:\coffeeProject\src\pages" />
+      <recent name="D:\coffeeProject\src\pages\mall\components" />
+      <recent name="D:\coffeeProject\dist\assets" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="test.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/test.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.test.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f91f0542-7d78-4f53-bce1-e8149792a10c" name="Default Changelist" comment="" />
+      <created>1572589186095</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572589186095</updated>
+      <workItem from="1572589187407" duration="12368000" />
+      <workItem from="1572663775079" duration="2123000" />
+      <workItem from="1572705086577" duration="165000" />
+      <workItem from="1572745478586" duration="28242000" />
+      <workItem from="1572918829793" duration="10049000" />
+      <workItem from="1572934978060" duration="1243000" />
+      <workItem from="1572960517087" duration="2572000" />
+      <workItem from="1573004353389" duration="6392000" />
+      <workItem from="1573021947207" duration="10654000" />
+      <workItem from="1573037422220" duration="10405000" />
+      <workItem from="1573092623883" duration="7902000" />
+      <workItem from="1573180897268" duration="16710000" />
+      <workItem from="1573286176034" duration="2447000" />
+      <workItem from="1573349072871" duration="7803000" />
+      <workItem from="1573435136609" duration="6431000" />
+      <workItem from="1573613402349" duration="2020000" />
+      <workItem from="1573627303223" duration="8759000" />
+      <workItem from="1573643424080" duration="602000" />
+      <workItem from="1573716181156" duration="12744000" />
+      <workItem from="1573781931766" duration="574000" />
+      <workItem from="1573782539189" duration="6070000" />
+      <workItem from="1573886535147" duration="17157000" />
+      <workItem from="1573913286649" duration="165000" />
+      <workItem from="1573953284573" duration="16902000" />
+      <workItem from="1573998620302" duration="1571000" />
+      <workItem from="1574060581526" duration="1252000" />
+      <workItem from="1574062829151" duration="5061000" />
+      <workItem from="1574132482701" duration="6463000" />
+      <workItem from="1574215737944" duration="4056000" />
+      <workItem from="1574231759734" duration="10177000" />
+      <workItem from="1574254781829" duration="7048000" />
+      <workItem from="1574321039329" duration="21331000" />
+      <workItem from="1574389472128" duration="23345000" />
+      <workItem from="1574477808682" duration="15830000" />
+      <workItem from="1574561956207" duration="11913000" />
+      <workItem from="1574598343010" duration="729000" />
+      <workItem from="1574671230127" duration="1282000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

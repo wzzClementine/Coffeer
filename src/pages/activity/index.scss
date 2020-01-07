@@ -1,0 +1,143 @@
+Page{
+  background: #F1E9DF;
+}
+
+.backgroundWrapper{
+  width: 100%;
+  height: 500px;
+  margin: 0;
+  padding: 0;
+  position: relative;
+  background-repeat: no-repeat;
+  background-size:100%;
+}
+
+.back{
+  position: absolute;
+  z-index: 1;
+  width: 100%;
+  height: 500px;
+  background-color: black;
+  background-color: rgba(0, 0, 0, 0.4);
+}
+
+.detailWrapper{
+  position: absolute;
+  z-index: 11;
+  width: 100%;
+}
+
+.topicWrapper{
+  display: flex;
+  flex-direction: column;
+  //padding: 35px;
+  //margin-top: 20px;
+  margin-bottom: 120px;
+}
+
+.titleWrapper{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 35px;
+  .titleInfo{
+    display: flex;
+    flex-direction: column;
+    color: white;
+    font-size: 35px;
+    font-weight: 700;
+    //padding-right: 80px;
+  }
+  .collection{
+    //position: absolute;
+    //bottom: 0;
+    //right: 0;
+    background-color: rgb(239, 140, 43);
+    color: white;
+    padding: 10px 25px 10px 25px;
+    border-radius: 40px;
+    font-size: 22px;
+    white-space: nowrap;
+  }
+  .collection2{
+    background-color: #F0F0F0;
+    color: white;
+    padding: 10px 25px 10px 25px;
+    border-radius: 40px;
+    font-size: 22px;
+    white-space: nowrap;
+  }
+}
+
+.bottom2{
+  width: 100%;
+  height: 50px;
+  position: fixed;
+  bottom: 0;
+  background-color: #F0F0F0;
+  color: white;
+  padding: 30px 45px 30px 45px;
+  text-align: center;
+}
+
+.bottom{
+  width: 100%;
+  height: 50px;
+  position: fixed;
+  bottom: 0;
+  background-color: rgb(239, 140, 43);
+  color: white;
+  padding: 30px 45px 30px 45px;
+  text-align: center;
+}
+
+.contentWrapper{
+  display: flex;
+  flex-direction: column;
+  margin: 0 35px 20px 30px;
+  background-color: rgb(251, 248, 244);
+  border-radius: 20px;
+  //padding: 35px 35px 25px 35px;
+  padding-bottom: 30px;
+}
+
+.infoWrapper{
+  display: flex;
+  flex-direction: column;
+  font-size: 23px;
+  color: #585858;
+  padding: 35px 35px 25px 35px;
+}
+.timeWrapper{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-bottom: 40px;
+  .label{
+    width: 100px;
+    white-space: nowrap;
+    text-align: center;
+    padding: 15px;
+    box-shadow: 0px 1px 3px rgba(34, 25, 25, 0.2);
+    //box-shadow: 3px 3px 3px #FCE9B4;
+    margin-right: 30px;
+  }
+}
+
+.contentBanner{
+  display: flex;
+  flex-direction: column;
+  .content{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    font-size: 23px;
+    line-height: 45px;
+  }
+  .img{
+    width: 100%;
+    margin-top: 15px;
+  }
+}

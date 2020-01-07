@@ -1,0 +1,23 @@
+//Page{
+//  background: #F1E9DF;
+//}
+.mallWrapper{
+
+}
+.searchWrapper{
+  display: flex;
+  align-items: center;
+  overflow: hidden;
+  background-color: #F1E9DF;
+  padding: 20px 0 20px 0;
+  .searchBanner{
+    float: left;
+    width: 87%;
+  }
+  .img{
+    float: right;
+    width: 75px;
+    height: 75px;
+  }
+}
+

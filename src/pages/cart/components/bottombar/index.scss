@@ -1,0 +1,49 @@
+.bottomWrapper{
+  position: fixed;
+  bottom: 0;
+  width: 700px;
+  padding: 25px 30px 25px 30px;
+  background-color: white;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.allPickWrapper{
+  margin-right: 30px;
+}
+
+.leftWrapper{
+  display: flex;
+  flex-direction: row;
+}
+
+.rightWrapper{
+  display: flex;
+  flex-direction: row;
+  .priceWrapper{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-right: 30px;
+    .price{
+      display: flex;
+      flex-direction: row;
+      align-items: center;
+      justify-content: center;
+    }
+    .label{
+      margin-right: 30px;
+      font-size: 19px;
+    }
+  }
+}
+
+.settle{
+  padding: 10px 35px 10px 35px;
+  background-color: rgb(239, 140, 43);
+  border-radius: 40px;
+  color: white;
+}
